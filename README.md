@@ -1,6 +1,5 @@
 # House Price Analysis
 
-## Overview
 This project analyzes factors affecting house sale prices, using exploratory data analysis (EDA) on various features like quality, living area, and neighborhood.
 
 ## Dataset
@@ -16,6 +15,6 @@ Install these R packages:
 ```R
 install.packages(c("tidyverse", "ggplot2", "ggcorrplot", "dplyr", "RColorBrewer", "GGally", "kableExtra"))
 
----
+##---
 
 Created by Nicolas Rodrigues da Cruz
